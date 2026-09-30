@@ -132,6 +132,9 @@ MIT License (see LICENSE.md)
 For issues, questions, or suggestions, please open an
 [issue](https://github.com/n8thangreen/modularce/issues) on GitHub.
 
+## Current status:
+This repo is currently under construction. 
+
 ------------------------------------------------------------------------
 
 **Last updated**: September 2026
